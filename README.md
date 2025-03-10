@@ -37,11 +37,6 @@ Here’s how I got everything running on my computer:
    ```
 5️⃣ **Started Analyzing Data!** 🚀 Opened Jupyter, wrote my code, and explored real-world data!
 
-## 🎥 The Video That Helped Me
-
-This tutorial really helped me understand everything. Check it out:  
-[![Watch the Tutorial](https://img.youtube.com/vi/KgCgpCIOkIs/0.jpg)](https://www.youtube.com/watch?v=KgCgpCIOkIs)
-
 ##  My Key Takeaways
 - How to **clean and prepare data** for analysis.
 - Using **charts and graphs** to spot trends.
