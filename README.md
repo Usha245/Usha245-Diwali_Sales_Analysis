@@ -37,11 +37,6 @@ Follow these steps to set up everything:
    ```
 5️⃣ **Start Analyzing Data!** 🚀 Open Jupyter, write your code, and explore data!
 
-## 🎥 Watch the Tutorial
-
-Want a step-by-step video guide? Check out this tutorial:  
-[![Watch the Tutorial](https://img.youtube.com/vi/KgCgpCIOkIs/0.jpg)](https://www.youtube.com/watch?v=KgCgpCIOkIs)
-
 ## 💡 Key Takeaways
 - Learn how to **clean and prepare data**.
 - Use **charts and graphs** to understand trends.
