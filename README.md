@@ -11,7 +11,7 @@ Hey there! Welcome to my **Python Data Analysis Project**. This is my personal g
 - **Exploring & Visualizing Data** – Creating graphs and charts to find insights.
 - **Understanding Data** – Learning how to interpret trends and patterns in data.
 
-## 🛠 Tools I Used
+##  Tools I Used
 
 - **Python**  – The main programming language.
 - **Jupyter Notebook**  – For writing and running Python code interactively.
