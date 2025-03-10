@@ -43,10 +43,7 @@ Follow these steps to set up everything:
 - Work with **real-world datasets**.
 - Build a strong foundation in **data analytics**.
 
----
- **Want to contribute?** Fork the repository and send a pull request!  
- **Need help?** Open an issue, and let’s solve it together.  
- **Like this project?** Star it and share with others! 
+
 
 
 
