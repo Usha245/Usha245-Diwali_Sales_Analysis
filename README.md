@@ -47,10 +47,6 @@ jupyter notebook
 ### 5️⃣ Start Exploring!
 Open the notebook and begin your data analysis journey. 🚀
 
-## 🎥 Tutorial Video
-
-For a detailed step-by-step guide, watch the full tutorial here:  
-[![Watch the Tutorial](https://img.youtube.com/vi/KgCgpCIOkIs/0.jpg)](https://www.youtube.com/watch?v=KgCgpCIOkIs)
 
 ## 💡 Insights & Takeaways
 - Understand how to **clean & preprocess data** effectively.
