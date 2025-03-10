@@ -1,5 +1,4 @@
-# Usha245-Diwali_Sales_Analysis
-# Python Data Analysis Project
+
 # 📊 Python Data Analysis Project
 
 Welcome to the **Python Data Analysis Project**! 🚀 This project serves as a beginner-friendly guide to performing data analysis using Python in **Jupyter Notebook**. Whether you're new to data analytics or looking to refine your skills, this tutorial walks you through essential concepts and hands-on steps.  
